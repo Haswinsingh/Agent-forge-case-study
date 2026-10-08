@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <!-- 4-node connected forge grid -->
+  <line x1="16" y1="16" x2="32" y2="16" stroke="#DADCE0" stroke-width="2" stroke-dasharray="3,2"/>
+  <line x1="32" y1="16" x2="32" y2="32" stroke="#DADCE0" stroke-width="2" stroke-dasharray="3,2"/>
+  <line x1="32" y1="32" x2="16" y2="32" stroke="#DADCE0" stroke-width="2" stroke-dasharray="3,2"/>
+  <line x1="16" y1="32" x2="16" y2="16" stroke="#DADCE0" stroke-width="2" stroke-dasharray="3,2"/>
+  <line x1="16" y1="16" x2="32" y2="32" stroke="#4285F4" stroke-width="1.5"/>
+  <!-- Google four color nodes -->
+  <circle cx="16" cy="16" r="5" fill="#4285F4" />
+  <circle cx="32" cy="16" r="5" fill="#EA4335" />
+  <circle cx="32" cy="32" r="5" fill="#34A853" />
+  <circle cx="16" cy="32" r="5" fill="#FBBC05" />
+</svg>
